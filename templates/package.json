@@ -1,0 +1,33 @@
+{
+  "name": "<%= name %>",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "gulp",
+    "test": "gulp test"
+  },
+  "main": "./src/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevOpsTW/Avengers.git"
+  },
+  "keywords": [
+    "express",
+    "jade",
+    "mongodb",
+    "angularjs",
+    "jquery",
+    "foundation",
+    "sass",
+    "compass",
+    "browserify",
+    "coffeescript",
+    "gulp",
+    "slush"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+  },
+  "homepage": ""
+}
